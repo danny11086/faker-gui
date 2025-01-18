@@ -120,6 +120,9 @@ faker-gui/
 - 项目维护者：Your Name
 - 邮箱：your.email@example.com
 - 项目链接：[GitHub](https://github.com/danny11086/faker-gui)
+![导出](https://github.com/user-attachments/assets/df7c301e-736b-4c02-b43b-2be1cd9d61eb)
+![预览](https://github.com/user-attachments/assets/4248b928-68e4-440b-842f-4d48eeb0468c)
+![生成数据](https://github.com/user-attachments/assets/04fe1126-5d29-4757-9c06-3eff9f1e728b)
 
 ## 更新日志
 
