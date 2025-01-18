@@ -26,7 +26,7 @@
 1. 克隆项目：
 ```
 bash
-git clone https://github.com/yourusername/faker-gui.git
+git clone https://github.com/danny11086/faker-gui.git
 cd faker-gui
 ```
 2. 安装依赖：
@@ -46,7 +46,9 @@ python main.py
 - 点击“生成”按钮，程序将生成相应的假数据。
 - 点击“预览”按钮，可以查看生成的数据。
 ## 项目结构
+
 ```
+
 faker-gui/
 ├── src/ # 源代码目录
 │ ├── init.py
@@ -65,9 +67,7 @@ faker-gui/
 ├── run.py # 启动脚本
 ├── README.md
 └── pyproject.toml # 项目配置
-
-
-``
+```
 
 ## 使用说明
 
@@ -119,7 +119,7 @@ faker-gui/
 
 - 项目维护者：Your Name
 - 邮箱：your.email@example.com
-- 项目链接：[GitHub](https://github.com/yourusername/faker-gui)
+- 项目链接：[GitHub](https://github.com/danny11086/faker-gui)
 
 ## 更新日志
 
